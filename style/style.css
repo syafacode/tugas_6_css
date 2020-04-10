@@ -1,0 +1,26 @@
+p  {
+    background-color: #00FFFF;
+    padding: 10px 10px;
+}
+
+.satu {
+    border: 10px dotted red;
+    max-width: 400px;
+    max-height: 100px;
+    overflow: scroll;
+}
+
+.dua {
+    border: 4px solid green;
+    max-width: 400px;
+    max-height: 100px;
+    overflow: scroll;
+}
+
+.tiga {
+    border: 20px dashed blue;
+    max-width: 400px;
+    max-height: 100px;
+    overflow: scroll;
+}
+
